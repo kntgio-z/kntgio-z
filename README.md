@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @kntgio-z
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c programming 
-- 📫 You can reach me out through fb messenger
+Hi! I am Kenneth Belardo, a student backend developer.
 
 <!---
 kntgio-z/kntgio-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
