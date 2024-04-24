@@ -1,4 +1,4 @@
-Hi! I am Kenneth Belardo, an aspiring backend developer.
+Hi! I am Gio, an aspiring backend developer.
 
 <!---
 kntgio-z/kntgio-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
