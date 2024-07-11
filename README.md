@@ -1,4 +1,6 @@
-Hi! I am Gio, a backend developer, proficient in NodeJS and ExpressJS.
+# Hi! I'm Gio.
+
+I am a backend developer, proficient in NodeJS and ExpressJS.
 
 <!---
 kntgio-z/kntgio-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
