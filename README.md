@@ -21,6 +21,7 @@ Here are the things I'm looking forward to:
 ### POScan
 
 **Description**
+
 This project is a native mobile application, made with React Native, used to connect with a specific POS system to act as a mobile barcode scanner. This project aims to streamline inventory management by allowing users to quickly scan product barcodes and send the data directly to the POS system for real-time updates, reducing manual entry errors and improving efficiency. It also minimizes additional costs by eliminating the need to purchase a separate barcode scanner.
 
 **Stack**
