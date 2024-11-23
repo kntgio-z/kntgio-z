@@ -21,5 +21,5 @@
 📫 **How to reach me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kenneth-belardo-5b9627313)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kntgio-z)  
-
+[![GitHub](https://img.shields.io/badge/Discord-purple?style=flat&logo=discord)](https://github.com/kntgio-z)  
 Thanks for stopping by! 😄
