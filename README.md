@@ -19,7 +19,7 @@
 ---
 
 ## 🌴 **A Bit About Me**  
-🌏 Based in the beautiful **Philippines**  
+🌏 Based in the **Philippines**  
 🌟 Aspiring to leave a lasting legacy in the tech world 🚀  
 🎮 Gamifying challenges—code and life!  
 
