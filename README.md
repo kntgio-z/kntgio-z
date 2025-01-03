@@ -1,34 +1,37 @@
-# 🌟 Hey, I'm **Gio**!  
+# 🌟 Hey there, I’m Gio! 👋  
 
-💡 **Backend Wizard** with a knack for crafting dynamic **web** and **application systems** using **JavaScript** and **TypeScript**. I thrive on solving complex problems and turning ideas into reality.  
+Welcome to my GitHub profile! I’m a **backend developer** who loves bringing ideas to life with **JavaScript**, **TypeScript**, and a sprinkle of creativity. Coding has been my way of exploring, problem-solving, and creating cool things that (hopefully) make a difference.  
 
 ---
 
-## 🚀 **Areas of Expertise**
-🎯 Programming Languages:  
-- 🛠 **C**: Where it all began  
-- ☕ **Java**: For all the coffee-fueled coding  
-- 🌐 **JavaScript & TypeScript**: My go-to for web and apps  
-- 🖥️ **PHP**: Backend classics  
+## 🚀 **What I Work With**  
+I’ve dabbled in a lot of stuff, but here’s what I spend most of my time with:  
 
-🌟 Frameworks & Libraries:  
-- ⚛️ **React**: Crafting user interfaces  
-- 🚀 **Node.js & Express.js**: Backend power duo  
-- 🏗️ **Yii2**: Bringing PHP frameworks to life  
+🎯 **Languages:**  
+- 🛠 **C** – My first programming language. It taught me the basics and a lot of patience.  
+- ☕ **Java** – For all those Object-Oriented hours in school (and yes, plenty of coffee).  
+- 🌐 **JavaScript & TypeScript** – The dynamic duo that powers most of my projects.  
+- 🖥️ **PHP** – A reliable old friend I still turn to.  
+
+🌟 **Frameworks and Tools:**  
+- ⚛️ **React** – My go-to for building fast and fun user interfaces.  
+- 🚀 **Node.js & Express** – Perfect for backend work and turning logic into actions.  
+- 🏗️ **Yii2** – Making PHP even better, one framework at a time.  
 
 ---
 
 ## 🌴 **A Bit About Me**  
-🌏 Based in the **Philippines**  
-🌟 Aspiring to leave a lasting legacy in the tech world 🚀  
-🎮 Gamifying challenges—code and life!  
+I’m based in the **Philippines**, where it’s always a good day for coffee and coding.  
+
+I dream of creating apps, tools, and systems that genuinely make life easier for people (big or small, it all counts). Outside of coding, I’m always up for learning new things, playing games, or tackling life like a series of fun challenges to solve.  
 
 ---
 
-### 🌐 **Let's Connect!**  
+### 🌐 **Let’s Connect**  
+Feel free to reach out—I love chatting about tech, ideas, or anything else cool:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kenneth-belardo-5b9627313)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kntgio-z)  
 
 ---
 
-✨ Thanks for dropping by! Feel free to chat about tech, ideas, or anything fun. Always ready to explore what’s next! 😄
+✨ Thanks for checking out my profile! Whether you’re here for collaboration, inspiration, or just curiosity—welcome. Let’s make something amazing! 😊  
