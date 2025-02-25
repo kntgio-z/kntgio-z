@@ -14,7 +14,8 @@ I’ve dabbled in a lot of stuff, but here’s what I spend most of my time with
 - 🖥️ **PHP** – A reliable old friend I still turn to.  
 
 🌟 **Frameworks and Tools:**  
-- ⚛️ **React** – My go-to for building fast and fun user interfaces.  
+- ⚛️ **React** – My go-to for building fast and fun user interfaces.
+- ⚛️ **React Native** – My framework buddy for making cross-platform mobile applications.  
 - 🚀 **Node.js & Express** – Perfect for backend work and turning logic into actions.  
 - 🏗️ **Yii2** – Making PHP even better, one framework at a time.  
 
