@@ -1,59 +1,67 @@
-# Hi 👋, I'm Kenneth
+<div align="center">
 
-Software developer focused on backend development and building scalable web and mobile applications.  
-Working mainly with TypeScript and modern JS ecosystems.  
-📍 Philippines  
+```
+██╗  ██╗███████╗███╗   ██╗
+██║ ██╔╝██╔════╝████╗  ██║
+█████╔╝ █████╗  ██╔██╗ ██║
+██╔═██╗ ██╔══╝  ██║╚██╗██║
+██║  ██╗███████╗██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
+```
 
----
+</div>
 
-## 🛠️ Tech Stack
+```bash
+guest@ken:~$ whoami
+Node.js-first software developer. Backend-heavy by default, front-to-back on request.
+I can do mobile apps, too.
 
-### 🧠 Core Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+guest@ken:~$ cat stack.json | jq '.default'
+```
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-</p>
+<div align="center">
 
-### 🎨 Frontend & Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 
-### 🏗️ Other
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
+</div>
 
----
+> This is what an empty repo turns into unless someone tells me otherwise.
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kntgio-z&theme=tokyonight" height="165" />
-</p>
+```bash
+guest@ken:~$ cat stack.json | jq '.mobile'
+```
 
----
+<div align="center">
 
-## 🔥 Current Focus
-- Improving backend architecture and system design  
-- Building full-stack applications  
-- Learning more about performance and scalability  
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
 
----
+</div>
 
-## 📫 Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/kenneth-belardo-knt-gio">
-    <img src="https://img.shields.io/badge/LinkedIn-Kenneth%20Belardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+> What a blank mobile repo turns into just as often as the web one does.
+
+```bash
+guest@ken:~$ cat stack.json | jq '.also_speaks'
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=8892BE" alt="PHP" />
+<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
+
+</div>
+
+> Not what I reach for first, but I won't stall a project waiting to rewrite it in something I like more.
+
+<div align="center">
+
+───────── · ───────── · ─────────
+
+*compiled without errors — no warnings suppressed*
+
+</div>
