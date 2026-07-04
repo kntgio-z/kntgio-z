@@ -2,6 +2,10 @@
 <img src="./assets/ken-name.svg" alt="KEN" width="100%" />
 </div>
 
+<br/>
+<br/>
+<br/>
+
 ```console
 ken@github:~$ whoami
 Node.js-first software developer.
@@ -21,6 +25,9 @@ ken@github:~$ cat stack/core
 
 </div>
 
+<br/>
+<br/>
+
 ```console
 ken@github:~$ cat stack/mobile
 ```
@@ -31,6 +38,9 @@ ken@github:~$ cat stack/mobile
 <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
 
 </div>
+
+<br/>
+<br/>
 
 ```console
 ken@github:~$ cat stack/also
@@ -44,10 +54,13 @@ ken@github:~$ cat stack/also
 
 </div>
 
+<br/>
+<br/>
+
 ```console
 ken@github:~$ ./status
 ```
 
 <div align="center">
-<img src="./assets/console-status.svg" alt="build console" width="380" />
+<img src="./assets/console-status.svg" alt="build console" width="100%" />
 </div>
