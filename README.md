@@ -1,22 +1,14 @@
 <div align="center">
-
-```
-██╗  ██╗███████╗███╗   ██╗
-██║ ██╔╝██╔════╝████╗  ██║
-█████╔╝ █████╗  ██╔██╗ ██║
-██╔═██╗ ██╔══╝  ██║╚██╗██║
-██║  ██╗███████╗██║ ╚████║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
-```
-
+<img src="./assets/ken-name.svg" alt="KEN" width="100%" />
 </div>
 
-```bash
-guest@ken:~$ whoami
-Node.js-first software developer. Backend-heavy by default, front-to-back on request.
-I can do mobile apps, too.
+```console
+ken@github:~$ whoami
+Node.js-first software developer.
+Backend-heavy by default; front-to-back when the product needs it.
+I build web apps, APIs, and mobile apps.
 
-guest@ken:~$ cat stack.json | jq '.default'
+ken@github:~$ cat stack/core
 ```
 
 <div align="center">
@@ -29,10 +21,8 @@ guest@ken:~$ cat stack.json | jq '.default'
 
 </div>
 
-> This is what an empty repo turns into unless someone tells me otherwise.
-
-```bash
-guest@ken:~$ cat stack.json | jq '.mobile'
+```console
+ken@github:~$ cat stack/mobile
 ```
 
 <div align="center">
@@ -42,10 +32,8 @@ guest@ken:~$ cat stack.json | jq '.mobile'
 
 </div>
 
-> What a blank mobile repo turns into just as often as the web one does.
-
-```bash
-guest@ken:~$ cat stack.json | jq '.also_speaks'
+```console
+ken@github:~$ cat stack/also
 ```
 
 <div align="center">
@@ -56,12 +44,10 @@ guest@ken:~$ cat stack.json | jq '.also_speaks'
 
 </div>
 
-> Not what I reach for first, but I won't stall a project waiting to rewrite it in something I like more.
+```console
+ken@github:~$ ./status
+```
 
 <div align="center">
-
-───────── · ───────── · ─────────
-
-*compiled without errors — no warnings suppressed*
-
+<img src="./assets/console-status.svg" alt="build console" width="380" />
 </div>
