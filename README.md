@@ -53,10 +53,4 @@ ken@github:~$ cat stack/also
 
 </div>
 
-<br/>
-<br/>
-
-```console
-ken@github:~$ ./status
-```
 
