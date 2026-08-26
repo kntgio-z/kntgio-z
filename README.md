@@ -9,7 +9,6 @@
 ```console
 ken@github:~$ whoami
 Node.js-first software developer.
-Backend-heavy by default; front-to-back when the product needs it.
 I build web apps, APIs, and mobile apps.
 
 ken@github:~$ cat stack/core
@@ -61,6 +60,3 @@ ken@github:~$ cat stack/also
 ken@github:~$ ./status
 ```
 
-<div align="center">
-<img src="./assets/console-status.svg" alt="build console" width="100%" />
-</div>
