@@ -3,16 +3,6 @@
 </div>
 
 <br/>
-<br/>
-<br/>
- 
-```console
-ken@github:~$ whoami
-Node.js-first software developer.
-I build web apps, APIs, and mobile apps.
-
-ken@github:~$ cat stack/core
-```
 
 <div align="center">
 
@@ -25,11 +15,6 @@ ken@github:~$ cat stack/core
 </div>
 
 <br/>
-<br/>
-
-```console
-ken@github:~$ cat stack/mobile
-```
 
 <div align="center">
 
@@ -39,11 +24,6 @@ ken@github:~$ cat stack/mobile
 </div>
 
 <br/>
-<br/>
-
-```console
-ken@github:~$ cat stack/also
-```
 
 <div align="center">
 
